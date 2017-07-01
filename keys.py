@@ -1,0 +1,6 @@
+# Login credentials
+
+myGmail = "-----"
+myPass = "-----"
+
+
