@@ -22,6 +22,6 @@ In *msg.txt* you can add the body of your email and in *contacts.txt* the email 
 **Be aware the program _does not check if the email address are valid_ it is up to you**
 
 
-##Features that will be added in the future 
--Option to add an image 
--Option to send the email on specific date and time
+## Features that will be added in the future 
+- Option to add an image 
+- Option to send the email on specific date and time
