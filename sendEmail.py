@@ -33,6 +33,12 @@ def sendEmail(myEmail,myPass,subject):
 			imageName = MIMEImage(fp.read())
 			fp.close()
 			message.attach(imageName)
+		elif(not os.path.isfile(imageName)):
+			print("File:",imageName," does not exist")
+			print("Send email without image?: y/n")
+			answ = input()
+			if(answ == "n"):
+				exit()
 		else:
 			print("Could not find image with the name :",imageName)
 	else:
@@ -52,5 +58,3 @@ def sendEmail(myEmail,myPass,subject):
 	server.login(myEmail,myPass)
 	server.send_message(message)
 	server.quit()
-
-	print("Done 2")
