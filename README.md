@@ -23,5 +23,5 @@ In *msg.txt* you can add the body of your email and in *contacts.txt* the email 
 
 
 ## Features that will be added in the future 
-- Option to add an image 
+- ~~Option to add an image~~ Done 
 - Option to send the email on specific date and time
