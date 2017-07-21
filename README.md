@@ -19,7 +19,7 @@ In *msg.txt* you can add the body of your email and in *contacts.txt* the email 
 
 *If you do not create these two files, the program will create them for you but they will be empty*
 
-**Be aware the program _does not check if the email address are valid_ it is up to you**
+**Be aware the program _does not check if the email addresses are valid_ it is up to you**
 
 
 ## Features that will be added in the future 
