@@ -4,8 +4,8 @@
 
 
 **Requirements**
-Python 3 
-A gmail address (I recommend to create a new one and not use your personal address)
+- Python 3 
+- A gmail address (I recommend to create a new one and not use your personal address)
 
 
 **How to get it up and running**
