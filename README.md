@@ -21,6 +21,11 @@ In *msg.txt* you can add the body of your email and in *contacts.txt* the email 
 
 **Be aware the program _does not check if the email addresses are valid_ it is up to you**
 
+# Run bot
+
+```
+$ python main.py
+```
 
 ## Features that will be added in the future 
 - ~~Option to add an image~~ Done 
